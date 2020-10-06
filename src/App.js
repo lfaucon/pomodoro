@@ -71,8 +71,8 @@ const App = () => {
           STOP
         </div>
       )}
-      {step === 'working' && <div className="button">FOCUS!</div>}
-      {step === 'relaxed' && <div className="button">Enjoy Life :)</div>}
+      {step === 'working' && <div className="info">FOCUS!</div>}
+      {step === 'relaxed' && <div className="info">Enjoy Life :)</div>}
     </div>
   );
 };
