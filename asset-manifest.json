@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pomodoro/static/css/main.dc3fe395.chunk.css",
-    "main.js": "/pomodoro/static/js/main.ce2370cf.chunk.js",
-    "main.js.map": "/pomodoro/static/js/main.ce2370cf.chunk.js.map",
+    "main.css": "/pomodoro/static/css/main.efa20f4c.chunk.css",
+    "main.js": "/pomodoro/static/js/main.d558ab64.chunk.js",
+    "main.js.map": "/pomodoro/static/js/main.d558ab64.chunk.js.map",
     "runtime~main.js": "/pomodoro/static/js/runtime~main.ad7a03aa.js",
     "runtime~main.js.map": "/pomodoro/static/js/runtime~main.ad7a03aa.js.map",
     "static/js/2.b8c86260.chunk.js": "/pomodoro/static/js/2.b8c86260.chunk.js",
     "static/js/2.b8c86260.chunk.js.map": "/pomodoro/static/js/2.b8c86260.chunk.js.map",
     "index.html": "/pomodoro/index.html",
-    "precache-manifest.c2557725fec74f1314b4a3b8f0e714c8.js": "/pomodoro/precache-manifest.c2557725fec74f1314b4a3b8f0e714c8.js",
+    "precache-manifest.f74c5678604366566886124ba9ed8ab4.js": "/pomodoro/precache-manifest.f74c5678604366566886124ba9ed8ab4.js",
     "service-worker.js": "/pomodoro/service-worker.js",
-    "static/css/main.dc3fe395.chunk.css.map": "/pomodoro/static/css/main.dc3fe395.chunk.css.map"
+    "static/css/main.efa20f4c.chunk.css.map": "/pomodoro/static/css/main.efa20f4c.chunk.css.map"
   }
 }
